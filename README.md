@@ -44,6 +44,8 @@ Abra no navegador:
 https://localhost:xxxx/swagger
 (Substitua xxxx pela porta exibida no terminal)
 
+Endereço: http://localhost:5027/swagger/index.html
+
 ## 🧪 Exemplos de requisições
 ✅ Criar um produto (POST /api/produtos)
 ```json
